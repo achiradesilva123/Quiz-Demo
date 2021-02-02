@@ -1,0 +1,14 @@
+html,
+body,
+.form-main{
+    height: 100vh;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -50%);
+}
+
+.btn-submit{
+    width: 100%;
+}

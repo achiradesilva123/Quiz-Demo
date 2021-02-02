@@ -1,0 +1,22 @@
+
+.content-01{
+  display: flex;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.content-01 div{
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  justify-content: space-around;
+}
+.content-01 input {
+  margin: 30px;
+}
+
+.submit{
+  width: 100px;
+  height: 50px;
+  border-radius: 60%;
+}
